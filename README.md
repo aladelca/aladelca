@@ -48,7 +48,7 @@ Data
 
 - Aggregated information from commercial area and created user-friendly dashboards, encouraging utilization, achieving a 90% adoption rate among stakeholders
 - Implemented Extract-Transform-Load procedures to amass data from CRM Dynamics 365, ERP Oracle PS, Google Analytics, and Facebook Ads, resulting in comprehensive collection of all commercial data
-
+<!--
 ## Projects 🚀
 
 ### [Project 1 Name]
@@ -63,7 +63,7 @@ Data
 - Technologies Used: [List of Technologies/Languages]
 - [Link to Project Repository]
 
-
+-->
 ## Technologies Used
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" />](https://www.python.org/)
