@@ -1,4 +1,5 @@
-![](coffee_data.jpeg)
+<img src="coffee_data.jpeg" alt="Data Science" style="width:1000px;height:150px;">
+
 
 # Coffee and Data 🚀
 
