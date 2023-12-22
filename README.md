@@ -11,25 +11,12 @@ As a Master of Management in Analytics student at McGill University, I am develo
 
 ## Education 🎓
 
-### McGill University
-- **Degree:** Master of Management Analytics
-- **Location:** Montreal, Canada
-- **Graduation Year:** 2024
-
-### Los Andes University
-- **Degree:** Master of Data Intelligence
-- **Location:** Bogotá, Colombia
-- **Gradutation Year:** 2023
-
-### Pontifical Catholic University of Peru
-- **Degree:** Master of Business Administration
-- **Location:** Lima, Peru
-- **Graduation Year:** 2021
-
-### ESAN University
-- **Degree:** Bachelor of Organizational Psychology
-- **Location:** Lima, Peru
-- **Graduation Year:** 2017
+| University                         |                                  | Information                                    |
+| ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| **McGill University**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Degree:** Master of Management Analytics<br>- **Location:** Montreal, Canada<br>- **Graduation Year:** 2024 |
+| **Los Andes University**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
+| **Pontifical Catholic University of Peru** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
+| **ESAN University**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
 
 
 ## Professional Experience 💼
