@@ -38,9 +38,7 @@ As a Master of Management in Analytics student at McGill University, I am develo
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="belcorp.png" height="80" />
-  <span style="font-size: smaller;">
-    Belcorp is a corporation with 50 years of experience in the beauty industry, operating under the direct sales model in 14 countries across the Americas.
-  </span>
+  
 </div>
 
 **Data Scientist**
@@ -56,9 +54,6 @@ As a Master of Management in Analytics student at McGill University, I am develo
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="utp.png" height="80" />
-  <span style="font-size: smaller;">
-    Universidad Tecnológica del Perú (UTP) was founded in 1997 and, since 2012, has been part of Intercorp, the biggest corporation in Peru.
-  </span>
 </div>
 
 **Business Intelligence Analyst**
