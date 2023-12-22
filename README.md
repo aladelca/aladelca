@@ -9,27 +9,64 @@ Passionate about Analytics and Machine Learning, I am eager to machine learning 
 
 As a Master of Management in Analytics student at McGill University, I am developing a unique skill set in order to improve data-driven decision-making that uses both business acumen and technical skills. Additionally, as an MBA, I have developed an extensive outlook in business. During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
 
-
 ## Education 🎓
 
-**Master of Management Analytics**  
-*McGill University - Montreal, Canada*  
-*2024*
+### McGill University
+- **Degree:** Master of Management Analytics
+- **Location:** Montreal, Canada
+- **Graduation Year:** 2024
 
-**Master of Data Intelligence**  
-*Los Andes University - Bogotá, Colombia*  
-*2023*
+### Los Andes University
+- **Degree:** Master of Data Intelligence
+- **Location:** Bogotá, Colombia
+- **Gradutation Year:** 2023
 
-**Master of Business Administration**  
-*Pontifical Chatolic University of Peru - Lima, Peru*  
-*2021*
+### Pontifical Catholic University of Peru
+- **Degree:** Master of Business Administration
+- **Location:** Lima, Peru
+- **Graduation Year:** 2021
 
-**Bachelor of Organizational Psychology**  
-*ESAN University - Lima, Peru*  
-*2017*
+### ESAN University
+- **Degree:** Bachelor of Organizational Psychology
+- **Location:** Lima, Peru
+- **Graduation Year:** 2017
+
 
 ## Professional Experience 💼
+<div align="left">
+  <h3>Belcorp</h3>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="belcorp.png" height="80" />
+  <span style="font-size: smaller;">
+    Belcorp is a corporation with 50 years of experience in the beauty industry, operating under the direct sales model in 14 countries across the Americas.
+  </span>
+</div>
 
+**Data Scientist**
+
+*Mar 2022 - Present*
+
+**Data Analyst**
+
+*Apr 2021 - Mar 2020*
+
+<div align="left">
+  <h3>Universidad Tecnológica del Perú</h3>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="utp.png" height="80" />
+  <span style="font-size: smaller;">
+    Universidad Tecnológica del Perú (UTP) was founded in 1997 and, since 2012, has been part of Intercorp, the biggest corporation in Peru.
+  </span>
+</div>
+
+**Business Intelligence Analyst**
+
+*Nov 2020 - Apr 2021*
+
+
+<!--
 ### Data Scientist | Belcorp | *Mar 2022 - Present*
 
 - Developed Machine Learning models to predict demand of beauty products sold in digital channels, resulting in error reduction of 36% allowing to improve accuracy of stock forecasting for supply chain
@@ -48,7 +85,7 @@ Data
 
 - Aggregated information from commercial area and created user-friendly dashboards, encouraging utilization, achieving a 90% adoption rate among stakeholders
 - Implemented Extract-Transform-Load procedures to amass data from CRM Dynamics 365, ERP Oracle PS, Google Analytics, and Facebook Ads, resulting in comprehensive collection of all commercial data
-<!--
+
 ## Projects 🚀
 
 ### [Project 1 Name]
