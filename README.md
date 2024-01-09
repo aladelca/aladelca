@@ -7,7 +7,7 @@ Welcome to my data science realm! 👋 I'm **Adrian Alarcon**, a passionate data
 
 Passionate about Analytics and Machine Learning, I am eager to machine learning models to generate impact in Business KPIs. I strongly desire to pursue a career as a Data Scientist in the Consulting, Technology & Retail sectors.
 
-As a Master of Management in Analytics student at McGill University, I am developing a unique skill set in order to improve data-driven decision-making that uses both business acumen and technical skills. Additionally, as an MBA, I have developed an extensive outlook in business. During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
+During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
 
 ## Education 🎓
 
@@ -69,21 +69,21 @@ Data
 -->
 ## Technologies Used
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" />](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="80" />](https://www.rstudio.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="80" />](https://www.djangoproject.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" />](https://www.mysql.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="80" />](https://www.microsoft.com/en-us/sql-server/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" />](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="80" />](https://cloud.google.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="80"/>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" />](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="50" />](https://www.rstudio.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />](https://www.djangoproject.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" />](https://www.microsoft.com/en-us/sql-server/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />](https://aws.amazon.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="50" />](https://cloud.google.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50"/>]()
 
-## GitHub Stats
-
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aladelca&theme=dark&hide=issues,prs&show_icons=true&show=discussion_started)](https://github.com/anuraghazra/github-readme-stats)
-          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladelca&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Interests
+* Soccer ⚽️
+* Coffee! ☕️
+* Craft Beer 🍺
+* Teaching 🎓
 
 ## Let's Connect! 🌐
 
