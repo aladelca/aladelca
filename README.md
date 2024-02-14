@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=aladelca&color=blue)
+
 # Welcome to Coffee and Data 🚀
 
 Welcome to my data science realm! 👋 I'm **Adrian Alarcon**, a passionate data scientist who loves transforming raw data into actionable insights. This GitHub repository serves as a playground where I experiment with cutting-edge techniques, share my projects, and showcase my journey in the world of data.
