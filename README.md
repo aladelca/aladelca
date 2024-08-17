@@ -19,6 +19,7 @@ During my experience of +5 years in Data & Analytics roles, I have developed sol
 | **Los Andes University**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
 | **Adolfo Ibañez University**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Degree:** Master of Data Science<br>- **Location:** Santiago, Chile<br>- **Graduation Year:** 2022 |
 | **Pontifical Catholic University of Peru** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
+| **Applied Sciences Peruvian University**                | <img src="esan.jpeg" alt="UPC Logo" width="100"> | - **Degree:** Bachelor of Industrial Engineering<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2022 |
 | **ESAN University**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
 
 
