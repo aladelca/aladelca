@@ -9,7 +9,7 @@ Welcome to my data science realm! 👋 I'm **Adrian Alarcon**, a passionate data
 
 Passionate about Analytics and Machine Learning, I am eager to machine learning models to generate impact in Business KPIs. I strongly desire to pursue a career as a Data Scientist in the Consulting, Technology & Retail sectors.
 
-During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
+During my experience of +7 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
 
 ## Education 🎓
 
