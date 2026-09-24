@@ -27,8 +27,8 @@ During my experience of +7 years in Data & Analytics roles, I have developed sol
 
 * **Data Scientist** - [OODARIS AI](https://oodaris.ai/en)🤖 (AI Startup) *Oct 2025 - Present*
 * **Data Scientist** - [ALDO Group](https://www.aldogroup.com/en) 👠 (Footwear industry) *Aug 2024 - Oct 2025*
-* **Data Scientist** - [Belcorp](https://www.belcorp.biz/en/) 💄 (Cosmetics industry) *Mar 2020 - Aug 2024*
-* **Data Analyst** - [Belcorp](https://www.belcorp.biz/en/) 💄(Cosmetics industry) *Apr 2021 - Mar 2020*
+* **Data Scientist** - [Belcorp](https://www.belcorp.biz/en/) 💄 (Cosmetics industry) *Mar 2022 - Aug 2024*
+* **Data Analyst** - [Belcorp](https://www.belcorp.biz/en/) 💄(Cosmetics industry) *Apr 2021 - Mar 2022*
 * **Business Intelligence Analyst** - [Universidad Tecnológica del Perú](https://www.utp.edu.pe/web/?utm_source=google&utm_medium=cpc&utm_campaign=consideration_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=EAIaIQobChMIi9_6xu_OgwMVLmNHAR1QUQE8EAAYASAAEgJVOvD_BwE) 🎓(Education industry) *Nov 2020 - Apr 2021*
 * **Business Intelligence Analyst** - [Cosapi](https://www.cosapi.com.pe/Site/Index.aspx?aID=430) 👷🏼‍♂️(Construction company) *Aug 2019 - Oct 2020*
 * **HR Data Analyst** - [Falabella Bank](https://www.bancofalabella.pe/) 🏦(Banking industry) *May 2019 - Aug 2019*
